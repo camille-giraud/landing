@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap");
+
+@import url("components/container.css");
+
+@import url("components/avatar.css");
+
+@import url("components/button.css");
+
+@import url("components/banner.css");
+
+@import url("components/card.css");
+
+h1, h2, h3 {
+	font-family: "Indie Flower", cursive;
+	font-weight: 1500;
+}
+
+h2 {
+	color: rgb(16, 83, 118);
+	padding: 10px;
+}
+body {
+	font-family: "Indie Flower", cursive;
+	font-size: 18px;
+	font-weight: 600;
+	color: rgb(106, 207, 134);
+	margin: 0px;
+}
+
+a {
+	text-decoration: none;
+	font-weight: bold;
+}
+
+
